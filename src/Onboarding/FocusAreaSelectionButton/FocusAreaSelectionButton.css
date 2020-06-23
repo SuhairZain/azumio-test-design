@@ -1,0 +1,36 @@
+.focus-area-selection-button {
+  height: 72px;
+  border-radius: 8px;
+  width: 120px;
+  margin: 20px 4px 0px 4px;
+}
+
+@keyframes button-shadow {
+  0% {
+      box-shadow: none;
+  }
+  100% {
+      box-shadow: box-shadow 0.3s ease-in-out;
+  }
+}
+
+.focus-area-selection-button:hover {
+  transition: all 0s ease-in;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+}
+
+.button-selected {
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.65);
+}
+
+@media screen and (min-width: 340px) {
+  .focus-area-selection-button {
+    width: 140px;
+  }
+}
+
+@media screen and (min-width: 420px) {
+  .focus-area-selection-button {
+    width: 160px;
+  }
+}
