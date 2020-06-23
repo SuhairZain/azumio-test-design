@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/azumio-test-design/static/css/main.6fb850df.chunk.css",
+    "main.js": "/azumio-test-design/static/js/main.b1d01a9e.chunk.js",
+    "main.js.map": "/azumio-test-design/static/js/main.b1d01a9e.chunk.js.map",
+    "runtime-main.js": "/azumio-test-design/static/js/runtime-main.b495638e.js",
+    "runtime-main.js.map": "/azumio-test-design/static/js/runtime-main.b495638e.js.map",
+    "static/js/2.86f0114a.chunk.js": "/azumio-test-design/static/js/2.86f0114a.chunk.js",
+    "static/js/2.86f0114a.chunk.js.map": "/azumio-test-design/static/js/2.86f0114a.chunk.js.map",
+    "index.html": "/azumio-test-design/index.html",
+    "precache-manifest.9ce575e49e954c77b7e85200e21e9a9c.js": "/azumio-test-design/precache-manifest.9ce575e49e954c77b7e85200e21e9a9c.js",
+    "service-worker.js": "/azumio-test-design/service-worker.js",
+    "static/css/main.6fb850df.chunk.css.map": "/azumio-test-design/static/css/main.6fb850df.chunk.css.map",
+    "static/js/2.86f0114a.chunk.js.LICENSE.txt": "/azumio-test-design/static/js/2.86f0114a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b495638e.js",
+    "static/js/2.86f0114a.chunk.js",
+    "static/css/main.6fb850df.chunk.css",
+    "static/js/main.b1d01a9e.chunk.js"
+  ]
+}
