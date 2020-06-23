@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/azumio-test-design/precache-manifest.9ce575e49e954c77b7e85200e21e9a9c.js"
+  "/azumio-test-design/precache-manifest.b19f9bd25c7fa4d312725c0f60140aaa.js"
 );
 
 self.addEventListener('message', (event) => {

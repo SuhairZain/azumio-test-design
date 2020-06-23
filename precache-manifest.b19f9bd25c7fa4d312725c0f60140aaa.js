@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "361ebdcf3d0775cce10707d1950f313b",
+    "revision": "54629e036f5adad6c643c44fdfd68d79",
     "url": "/azumio-test-design/index.html"
   },
   {
-    "revision": "b4eece81a9775ddbd524",
-    "url": "/azumio-test-design/static/css/main.6fb850df.chunk.css"
+    "revision": "94391a9fa4c671cf1917",
+    "url": "/azumio-test-design/static/css/main.d06f9718.chunk.css"
   },
   {
     "revision": "ff519bd1a1003553fae1",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/azumio-test-design/static/js/2.86f0114a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4eece81a9775ddbd524",
+    "revision": "94391a9fa4c671cf1917",
     "url": "/azumio-test-design/static/js/main.b1d01a9e.chunk.js"
   },
   {
